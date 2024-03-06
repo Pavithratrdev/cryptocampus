@@ -1,6 +1,7 @@
 import phone from '../assets/phone1.png'
 import mail from '../assets/gmail.png'
 import logo from '../assets/logo.png'
+import { Link } from 'react-router-dom';
 
 function Footer() {
     return ( 
@@ -15,6 +16,12 @@ function Footer() {
                     <a href="tel:+919994617344" className='flex font-bold'><img src={phone} className="w-6 mr-2" /> : +91 99946-17344</a>
                     <a href="mailto:halifax5566@gmail.com" className='flex font-bold'><img src={mail} className="w-6 mr-2" /> : halifax5566@gmail.com</a>
                 </div>
+            </div>
+            <div>
+            <Link to={"/privacypolicy"} className="font-medium text-blue-600 dark:text-blue-500 hover:underline">Privacy Policy</Link>
+            <Link to={"/terms"} className="font-medium text-blue-600 dark:text-blue-500 hover:underline">Terms & Conditions</Link>
+            <Link to={"/refundpolicy"} className="font-medium text-blue-600 dark:text-blue-500 hover:underline">Refund Policy</Link>
+            <Link to={"/gendis"} className="font-medium text-blue-600 dark:text-blue-500 hover:underline">Disclaimer</Link>
             </div>
             <div className="flex flex-col">
                 <span className="footer-title">Social</span> 

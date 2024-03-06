@@ -4,14 +4,14 @@ import { getDatabase } from 'firebase/database';
 import { getFirestore } from 'firebase/firestore';
 
 const firebaseConfig = {
-    apiKey: "AIzaSyDm0cr-dDOdWF3W6H6QpDQzEoNjHJ_jUcw",
-    authDomain: "crypto-d34e6.firebaseapp.com",
-    databaseURL: "https://crypto-d34e6-default-rtdb.firebaseio.com",
-    projectId: "crypto-d34e6",
-    storageBucket: "crypto-d34e6.appspot.com",
-    messagingSenderId: "933853381609",
-    appId: "1:933853381609:web:c865b84fa7f92d4fa60178",
-    measurementId: "G-YN8B780PTE"
+    apiKey: "AIzaSyCswdRUc_uEYXCK_ME1zyWFQeAOkiNpe9M",
+    authDomain: "cryptocampus-da224.firebaseapp.com",
+    databaseURL: "https://cryptocampus-da224-default-rtdb.firebaseio.com",
+    projectId: "cryptocampus-da224",
+    storageBucket: "cryptocampus-da224.appspot.com",
+    messagingSenderId: "349865497301",
+    appId: "1:349865497301:web:5a84b0929133cee4a7885c",
+    measurementId: "G-D801KMTXGT"
 };
 
 const app = initializeApp(firebaseConfig);
