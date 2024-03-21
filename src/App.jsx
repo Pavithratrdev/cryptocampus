@@ -6,9 +6,9 @@ import CourseDetailsPage from "./pages/CoursePage";
 import RegistrationForm from "./pages/RegisterForm";
 import up from './assets/up2.png'
 import PrivacyPolicy from "./pages/PrivacyPolicy";
-import RefundPolicy from "./pages/Refund-Policy";
-import GenDis from "./pages/General-disclaimer";
-import Terms from "./pages/Terms-of-use";
+import RefundPolicy from "./pages/RefundPolicy";
+import GenDis from "./pages/GeneralDisclaimer";
+import Terms from "./pages/Termsofuse";
 
 function App() {
   const handleScrollToTop = () => {
