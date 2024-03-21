@@ -6,7 +6,7 @@ import CourseDetailsPage from "./pages/CoursePage";
 import RegistrationForm from "./pages/RegisterForm";
 import up from './assets/up2.png'
 import PrivacyPolicy from "./pages/PrivacyPolicy";
-import RefundPolicy from "./pages/RefundPolicy";
+import RefundPolicy from "./pages/Refundpolicy";
 import GenDis from "./pages/GeneralDisclaimer";
 import Terms from "./pages/Termsofuse";
 
