@@ -8,13 +8,13 @@ function Footer() {
         <footer className="footer p-10 bg-neutral text-neutral-content">
             <div>
                 <img src={logo} className='w-28' />
-                <p>Crypto Campus Ltd.<br/>All copyrights reserved</p>
+                <p>Crypto Campus Ltd.<br/>All copyrights reserved for 2024</p>
             </div> 
             <div>
                 <span className="footer-title">Contact</span> 
                 <div className="">
-                    <a href="tel:+919994617344" className='flex font-bold'><img src={phone} className="w-6 mr-2" /> : +91 99946-17344</a>
-                    <a href="mailto:halifax5566@gmail.com" className='flex font-bold'><img src={mail} className="w-6 mr-2" /> : halifax5566@gmail.com</a>
+                    {/* <a href="tel:+919994617344" className='flex font-bold'><img src={phone} className="w-6 mr-2" /> : +91 99946-17344</a> */}
+                    <a href="mailto:contact@cryptocampus.in" className='flex font-bold'><img src={mail} className="w-6 mr-2" /> : contact@cryptocampus.in</a>
                 </div>
             </div>
             <div>

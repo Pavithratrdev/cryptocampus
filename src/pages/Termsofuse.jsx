@@ -1,8 +1,13 @@
-import React from 'react'
+import React, { useEffect } from 'react'
 import Navbar from '../components/Navbar';
+import Footer from '../components/Footer';
 
 const PrivacyPolicy = () => {
+  useEffect(() => {
+    window.scrollTo(0, 0)
+  }, [])
     return (
+      <>
         <div className="container mx-auto py-8">
           <Navbar></Navbar>
      <h1 className="text-5xl font-semibold mb-4 text-center mt-20 bg-sky-50 p-9" >Terms & Conditions</h1>
@@ -102,6 +107,8 @@ THE FOREGOING LIMITATION OF LIABILITY SHALL APPLY TO THE FULLEST EXTENT PERMITTE
 <li>5. These Terms constitutes the entire terms and conditions between you and the Company relating to the subject matter herein and supersedes any and all prior or contemporaneous written or oral agreements or understandings between you and the Company.</li>
 <p>For information or questions please contact: contact@cryptocampus.in</p><br />
 </div>
+<Footer />
+</>
     );
 };
 

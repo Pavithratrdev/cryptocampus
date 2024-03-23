@@ -1,9 +1,13 @@
-import React from 'react'
+import React, { useEffect } from 'react'
 import Navbar from '../components/Navbar';
+import Footer from '../components/Footer';
 
 const PrivacyPolicy = () => {
+  useEffect(() => {
+    window.scrollTo(0, 0)
+  }, [])
   return (
-
+<>
 <div className="container mx-auto py-8">
         <Navbar></Navbar>
         <h1 className="text-5xl font-semibold mb-4 text-center mt-20 bg-sky-50 p-9" >Privacy Policy</h1>
@@ -271,7 +275,7 @@ THE FOREGOING LIMITATION OF LIABILITY SHALL APPLY TO THE FULLEST EXTENT PERMITTE
            <br />
            <h2><b>1. Course Enrollment and Refund Limitations:</b></h2>
            <p>1.1. Upon enrolling in a course with Crypto Campus, please note that, in general, once enrolled, refunds cannot be processed under any circumstances.<br />
-            1.2. We want you to have a seamless learning experience. If you encounter any issues or concerns, please contact our team at [contact@¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬cryptocampus.in] for assistance before making a decision.
+            1.2. We want you to have a seamless learning experience. If you encounter any issues or concerns, please contact our team at [contact@cryptocampus.in] for assistance before making a decision.
             </p><br />
           <h2><b>2. Exceptional Cases:</b></h2>
           <p>2.1. In exceptional cases where Crypto Campus determines that a refund may be warranted, it will be at the sole discretion of Crypto Campus.<br />
@@ -287,6 +291,8 @@ By enrolling in our courses, you acknowledge and agree to the terms of our refun
         
         <p className="mt-8">Got any Questions? If you have any questions (or comments) concerning this Privacy Policy, you are most welcomed to send us an email to the following address: [contact@cryptocampus.in], and we will try to reply within a reasonable timeframe.</p>
       </div>
+      <Footer ></Footer>
+      </>
   );
 };
 
