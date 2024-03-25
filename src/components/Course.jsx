@@ -6,7 +6,7 @@ import courses from '../courses/courses.json'
 function Course() {
     return ( 
         <div className='p-10'>
-            <h1 className="text-2xl text-center mt-10 font-bold mb-7">Who this course is for?</h1>
+            <h1 className="text-2xl text-center mt-10 font-bold mb-7">Who Is This Course For?</h1>
             <div className='flex justify-center items-center'>
                 <div className='p-10 rounded-xl bg-[#C181F7] text-white'>
                     <h1 className='mb-5 font-bold text-2xl'>Existing Software Engineer : </h1>

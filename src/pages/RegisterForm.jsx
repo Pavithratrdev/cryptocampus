@@ -43,11 +43,14 @@ const RegistrationForm = () => {
             name,
             email,
             phone,
-            selectedOption,
+            //selectedOption,
         };
         updateFormToFirebase(formData);
         console.log(formData);
         setLoading(false);
+        setName("")
+        setEmail("")
+        setPhone("")
         toast.success('Check your mail for more informations', {
             position: "top-right",
             autoClose: 5000,
@@ -98,7 +101,7 @@ const RegistrationForm = () => {
                     </div>
                     <div className="mb-4">
                     <label htmlFor="phone" className="block text-gray-700 font-bold mb-2">
-                        WhatsApp No <span className="text-red-400">*</span>
+                        Mobile No <span className="text-red-400">*</span>
                     </label>
                     <input
                         type="tel"
@@ -111,14 +114,14 @@ const RegistrationForm = () => {
                     />
                     </div>
                     <div className="relative inline-block">
-                    <select
+                    {/* <select
                         className="input cursor-pointer"
                         value={selectedOption}
                         onChange={handleOptionChange}
                     >
                         <option value="" disabled>Select an option</option>
                         <option value="Web3 & solidity">Web3 & Solidity</option>
-                    </select>
+                    </select> */}
                     </div>
                     <button
                     type="submit"

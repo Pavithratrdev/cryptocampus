@@ -97,7 +97,7 @@ const CourseDetailsPage = () => {
             )}
             </div>
             <div className="md:w-1/2 p-4 mt-10 md:mt-0">
-              <h1 className="font-bold text-xl mb-4">What You will learn in 45 days</h1>
+              <h1 className="font-bold text-xl mb-4">What You will learn in 30 days</h1>
               <div>
                 <p className='font-semibold mb-2'><span className='font-bold'>Blockchain Architecture:</span> Understanding the intricacies of a distributed ledger system, including the structure of blocks and how consensus mechanisms ensure data integrity and security.</p>
                 <p className='font-semibold mb-2'><span className='font-bold'>Smart Contracts and Solidity:</span> Delving deeper into smart contracts, exploring their use cases, and mastering the Solidity programming language for writing sophisticated and efficient contracts.</p>

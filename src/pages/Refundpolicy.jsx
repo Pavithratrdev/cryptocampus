@@ -20,7 +20,7 @@ return (
         <h2><b>2. Exceptional Cases:</b></h2>
         <p>2.1. In exceptional cases where Crypto Campus determines that a refund may be warranted, it will be at the sole discretion of Crypto Campus.<br />
         2.2. Exceptional cases may include technical difficulties preventing access to the course, course content not as described, or other issues deemed appropriate by Crypto Campus.
-        </p>
+        </p><br />
         <h2><b>3. Contact Information:</b></h2>
         <p>3.1. For any refund-related inquiries or concerns, please contact our team at                        [contact@cryptocampus.in].
         By enrolling in our courses, you acknowledge and agree to the terms of our refund policy. We appreciate your understanding and commitment to your Blockchain education with Crypto Campus.

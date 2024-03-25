@@ -105,7 +105,7 @@ THE FOREGOING LIMITATION OF LIABILITY SHALL APPLY TO THE FULLEST EXTENT PERMITTE
 <li>3. If any provision of this Terms is found to be unlawful, void, or for any reason unenforceable, then that provision will be deemed severable from this Terms and will not affect the validity and enforceability of any remaining provisions.</li>
 <li>4. No waiver by either party of any breach or default hereunder will be deemed to be a waiver of any preceding or subsequent breach or default. Any heading, caption or section title contained herein is inserted only as a matter of convenience, and in no way defines or explains any section or provision hereof.</li>
 <li>5. These Terms constitutes the entire terms and conditions between you and the Company relating to the subject matter herein and supersedes any and all prior or contemporaneous written or oral agreements or understandings between you and the Company.</li>
-<p>For information or questions please contact: contact@cryptocampus.in</p><br />
+<b>For information or questions please contact: contact@cryptocampus.in</b><br />
 </div>
 <Footer />
 </>
