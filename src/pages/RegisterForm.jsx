@@ -30,7 +30,11 @@ const RegistrationForm = () => {
             const formsCollectionRef = collection(fs, 'registrationForms');
             await addDoc(formsCollectionRef, formData);
             console.log('Document written successfully');
-            emailjs.sendForm('service_8svauhq', 'template_fsqbech', form.current, 'vFNhK9gCZDXinw0n4') //https://www.emailjs.com/
+            const emailTemplate = {
+                name:name,
+                email:email,
+            };
+            emailjs.send('service_8svauhq', 'template_fsqbech', emailTemplate, 'vFNhK9gCZDXinw0n4') //https://www.emailjs.com/
         } catch (error) {
           console.error('Error adding document: ', error);
         }
