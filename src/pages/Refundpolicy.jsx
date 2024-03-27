@@ -15,21 +15,21 @@ return (
             <li>
         <h2><b>1. Course Enrollment and Refund Limitations:</b></h2>
         <p>1.1. Upon enrolling in a course with Crypto Campus, please note that, in general, once enrolled, refunds cannot be processed under any circumstances.<br />
-        1.2. We want you to have a seamless learning experience. If you encounter any issues or concerns, please contact our team at [contact@cryptocampus.in] for assistance before making a decision.
+        1.2. We want you to have a seamless learning experience. If you encounter any issues or concerns, please contact our team at <b>[contact@cryptocampus.in]</b> for assistance before making a decision.
         </p><br />
         <h2><b>2. Exceptional Cases:</b></h2>
         <p>2.1. In exceptional cases where Crypto Campus determines that a refund may be warranted, it will be at the sole discretion of Crypto Campus.<br />
         2.2. Exceptional cases may include technical difficulties preventing access to the course, course content not as described, or other issues deemed appropriate by Crypto Campus.
         </p><br />
         <h2><b>3. Contact Information:</b></h2>
-        <p>3.1. For any refund-related inquiries or concerns, please contact our team at                        [contact@cryptocampus.in].
+        <p>3.1. For any refund-related inquiries or concerns, please contact our team at <b>[contact@cryptocampus.in].</b>  
         By enrolling in our courses, you acknowledge and agree to the terms of our refund policy. We appreciate your understanding and commitment to your Blockchain education with Crypto Campus.
         </p> <br />
         <p>Thank you for being a valued part of Crypto Campus!</p>
         </li>
         </ol>
 
-        <p className="mt-8">Got any Questions? If you have any questions (or comments) concerning this Privacy Policy, you are most welcomed to send us an email to the following address: [contact@cryptocampus.in], and we will try to reply within a reasonable timeframe.</p>
+        <p className="mt-8">Got any Questions? If you have any questions (or comments) concerning this Privacy Policy, you are most welcomed to send us an email to the following address: <b>[contact@cryptocampus.in]</b>, and we will try to reply within a reasonable timeframe.</p>
         </div>
         <Footer/>
         </>

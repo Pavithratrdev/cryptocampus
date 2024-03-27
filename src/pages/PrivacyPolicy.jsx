@@ -168,10 +168,10 @@ Note that if you click on any of these advertisements, these advertisers may use
                  <br></br>
                 <h2><b>Got any Questions?</b></h2>      
                 <p>If you have any questions (or comments) concerning this Privacy Policy, you are most welcomed to send us an email to the following address:
-[contact@cryptocampus.in], and we will try to reply within a reasonable timeframe.</p>
+                <b>[contact@cryptocampus.in]</b>, and we will try to reply within a reasonable timeframe.</p>
 <br></br>         
                
-               <p>Crypto Campus and its affiliates (“Company” or “we”) welcome you (“User” or “you”) to our proprietary online platform featuring various tools and information related to the blockchain ecosystem, from beginners to experts. (the “Service”) available at the Internet address [https://www.cryptocampus.in] (the “Site”). Each User is invited to enjoy the Site and the Service in accordance with the terms and conditions hereunder.</p>
+               <p>Crypto Campus and its affiliates (“Company” or “we”) welcome you (“User” or “you”) to our proprietary online platform featuring various tools and information related to the blockchain ecosystem, from beginners to experts. (the “Service”) available at the Internet address <b>[https://www.cryptocampus.in]</b> (the “Site”). Each User is invited to enjoy the Site and the Service in accordance with the terms and conditions hereunder.</p>
                <br></br>  
           </li>            
         </ol>
