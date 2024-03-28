@@ -8,7 +8,7 @@ function Footer() {
         <footer className="footer p-10 bg-neutral text-neutral-content">
             <div>
                 <img src={logo} className='w-28' />
-                <p>Crypto Campus Ltd.<br/>© 2024 Crypto Campus. All Rights Reserved</p>
+                <p>© 2024 Crypto Campus. All Rights Reserved</p>
             </div> 
             <div>
                 <span className="footer-title">Get in touch with us</span> 

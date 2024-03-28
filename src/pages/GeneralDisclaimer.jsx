@@ -5,7 +5,7 @@ import Footer from '../components/Footer';
 const PrivacyPolicy = () => {
     return (
       <div className='h-screen'>
-      <div className="container mx-auto py-8">
+      <div className="container mx-auto  p-10 py-8">
           <Navbar></Navbar>
         <h1 className="text-5xl font-semibold mb-4 text-center mt-20 bg-sky-50 p-9" >General Disclaimer</h1>
         <h2><b>Disclaimer:</b></h2>

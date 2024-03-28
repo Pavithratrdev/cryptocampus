@@ -8,7 +8,7 @@ const PrivacyPolicy = () => {
   }, [])
     return (
       <>
-        <div className="container mx-auto py-8">
+        <div className="container mx-auto p-10 py-8">
           <Navbar></Navbar>
      <h1 className="text-5xl font-semibold mb-4 text-center mt-20 bg-sky-50 p-9" >Terms & Conditions</h1>
 <p>Crypto Campus and its affiliates (“Company” or “we”) welcome you (“User” or “you”) to our proprietary online platform featuring various tools and information related to the blockchain ecosystem, from beginners to experts. (the “Service”) available at the Internet address [https://www.cryptocampus.in] (the “Site”). Each User is invited to enjoy the Site and the Service in accordance with the terms and conditions hereunder.</p>
